@@ -80,7 +80,7 @@
     "@types/webgl-ext": "0.0.30",
     "@types/webgl2": "0.0.4",
     "node-fetch": "~2.1.2",
-    "seedrandom": "2.4.3"
+    "seedrandom": "2.4.4"
   },
   "browser": {
     "node-fetch": false,

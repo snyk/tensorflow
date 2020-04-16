@@ -405,10 +405,10 @@ node-fetch@~2.1.2:
   resolved "https://registry.yarnpkg.com/node-fetch/-/node-fetch-2.1.2.tgz#ab884e8e7e57e38a944753cec706f788d1768bb5"
   integrity sha1-q4hOjn5X44qUR1POxwb3iNF2i7U=
 
-node-gles@^0.0.13:
-  version "0.0.13"
-  resolved "https://registry.yarnpkg.com/node-gles/-/node-gles-0.0.13.tgz#55df9725b047355284d8343af058d428e05eeeac"
-  integrity sha512-dEqRhLf/ZYZCxZJ8qxLYSOYkXKNNJb+mQcpVSg5RuF8sXvxK/eEWIhZqDl8pcboaDuXNEyeeVvTD8cpYlkJNdw==
+node-gles@^0.0.16:
+  version "0.0.16"
+  resolved "https://registry.yarnpkg.com/node-gles/-/node-gles-0.0.16.tgz#84045bda160c585387385e489f5d86759dd61ca9"
+  integrity sha512-kptlnyQ9hLRFP9Lv+KsZLubfgLdVqgalE+0YFirvBcsmquU5S2tMhSbRVykDm1iODJjWr+omeMIOUPZ9hreXnw==
   dependencies:
     adm-zip "^0.4.13"
     bindings "^1.3.0"

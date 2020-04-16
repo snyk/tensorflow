@@ -41,7 +41,7 @@
     "yalc": "~1.0.0-pre.21"
   },
   "dependencies": {
-    "@webgpu/shaderc": "0.0.6",
+    "@webgpu/shaderc": "0.0.7",
     "@webgpu/types": "0.0.6"
   },
   "peerDependencies": {

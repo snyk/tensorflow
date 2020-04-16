@@ -42,7 +42,7 @@
   },
   "dependencies": {
     "@webgpu/shaderc": "0.0.6",
-    "@webgpu/types": "0.0.6"
+    "@webgpu/types": "0.0.22"
   },
   "peerDependencies": {
     "@tensorflow/tfjs-core": "1.2.1"
